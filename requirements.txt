@@ -1,0 +1,7 @@
+django
+pytest
+pytest-django
+pymupdf
+python-docx 
+fpdf
+ollama
